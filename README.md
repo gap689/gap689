@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Germán Alamilla</h1>
+<h3 align="center">I am pursuing a Data related position </h3>
 
 <!--
 **gap689/gap689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **data science/analytics, data structures and algorithms, REACT**
+
+- 👯 I’m looking to collaborate on crypto analytics, data science projects, full stack development
+
+- 💬 Ask me about **cryptocurrency analytics, data science and trading.**
+
+- 📫 How to reach me: [@GermanAlamillaP](https://twitter.com/GermanAlamillaP)
+
+- ⚡ Fun fact: I started investing in Bitcoin in march 2019
