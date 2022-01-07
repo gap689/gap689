@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **data science/analytics, data structures and algorithms, Statistics, Django**
+- 🌱 I’m currently learning **Data Science/Analytics, Data Structures and Algorithms, Probability and Statistics, Django**
 
-- 👯 I’m looking to collaborate on Data Analytics, cryptocurrency analytics, data science projects, full stack development
+- I have extracted data from exchanges using APIs and Websockets for real-time analysis, I have performed data transformation using Pandas.
 
-- 💬 Ask me about **time-series, cryptocurrency analytics, data science and trading.**
+- 👯 I’m looking to collaborate on Data Analytics, Cryptocurrency Analytics, Data Science projects, Full stack development
+
+- 💬 Ask me about **Data Analysis, Time-series, Cryptocurrency Analytics, Data Science and Trading.**
 
 - 📫 How to reach me: [@GermanAlamillaP](https://twitter.com/GermanAlamillaP)
 
