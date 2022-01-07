@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Science/Analytics, Data Structures and Algorithms, Probability and Statistics, Django**
 
-- I have extracted data from exchanges using APIs and Websockets for real-time analysis, I have performed data transformation using Pandas.
+- I have extracted real-time data using APIs and Websockets for real-time analysis, I have performed data transformation using Pandas and SQL.
 
-- 👯 I’m looking to collaborate on Data Analytics, Cryptocurrency Analytics, Data Science projects, Full stack development
+- 👯 I’m looking to collaborate on Data Analytics, Business Intelligence, Cryptocurrency Analytics, Data Science projects, Full stack development
 
 - 💬 Ask me about **Data Analysis, Time-series, Cryptocurrency Analytics, Data Science and Trading.**
 
