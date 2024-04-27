@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Data Science/Analytics, Data Structures and Algorithms, Probability and Statistics, Django**
+- I'm currently working on **Fullstack development** focused on building data-centric products.
 
-- I have extracted real-time data using APIs and Websockets for real-time analysis, I have performed data transformation using Pandas and SQL.
+- 🌱 I’m currently learning **Data Science/Analytics, Data Structures and Algorithms, Probability and Statistics, Django.**
 
-- 👯 I’m looking to collaborate on Data Analytics, Business Intelligence, Cryptocurrency Analytics, Data Science projects, Full stack development
+- 👯 I’m looking to collaborate on AI apps, Web palatforms, Data Analytics, Business Intelligence, Cryptocurrency Analytics, Data Science projects, Full stack development.
 
-- 💬 Ask me about **Data Analysis, Time-series, Cryptocurrency Analytics, Data Science and Trading.**
+- 💬 Ask me about **Web apps, Data Analysis, Cryptocurrency Analytics, Data Science and Trading.**
 
 - 📫 How to reach me: [@GermanAlamillaP](https://twitter.com/GermanAlamillaP)
-
-- ⚡ Fun fact: I started investing in Bitcoin in march 2019
